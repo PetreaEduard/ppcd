@@ -1,5 +1,5 @@
-# ppcd
-
+GI# ppcd
+SALUT MERGE
 mpi git clone https://github.com/PetreaEduard/ppcd.git
 mpi cd ppcd
 git config --list -> username-ul pentru git
